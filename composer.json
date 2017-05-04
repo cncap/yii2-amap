@@ -10,7 +10,6 @@
             "email": "chn.captain@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
     "require": {
         "yiisoft/yii2": "*"
     },
