@@ -1,0 +1,21 @@
+{
+    "name": "vmax/yii2-amap",
+    "description": "Amap api for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","amap"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "vmax",
+            "email": "chn.captain@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "vmax\\amap\\": ""
+        }
+    }
+}
